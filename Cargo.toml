@@ -2,6 +2,7 @@
 name = "oxidar_derive"
 version = "0.1.0"
 edition = "2021"
+license-file = "LICENSE.md"
 
 [lib]
 proc-macro = true
